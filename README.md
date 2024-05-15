@@ -5,7 +5,7 @@
 
 <hr> -->
 
-<h1 align="center">NutriLab - PyStack Week 4.0</h1>
+<h1 align="center">NutriLab</h1>
 
 
 <div align="center" id="top">
