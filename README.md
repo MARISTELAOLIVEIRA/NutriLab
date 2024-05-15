@@ -150,21 +150,6 @@ OBS: Os arquivos do projeto podem ter muitos comentários pois são arquivos de 
 <br>
 
 
-<!---### Autor --->
-
-
-<img alt="Lucas Feliciano" title="Lucas Feliciano" src="https://avatars.githubusercontent.com/u/90653345?v=4" height="100" width="100" />
-
-
-Accomplished with :heart: by [LucasFeliciano02](https://github.com/LucasFeliciano02) 👋
-
-
-[![LinkedIn Badge](https://img.shields.io/badge/-Lucas_Feliciano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-henrique-marques-feliciano-aa5aab222/)](https://www.linkedin.com/in/lucas-henrique-marques-feliciano-aa5aab222/) 
-
-
-&#xa0;
-
-
 <a href="#top">Voltar para o topo</a>
 
 
