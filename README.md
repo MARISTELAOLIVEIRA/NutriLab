@@ -1,9 +1,6 @@
- <!-- <h4 align="center"> 
----
-	🚧  Projeto NutriLab-Django 🚀 Em construção...  🚧
-</h4> 
 
-<hr> -->
+	🚧  Projeto NutriLab-Django 🚀 Em construção...  🚧
+
 
 <h1 align="center">NutriLab</h1>
 
@@ -27,10 +24,6 @@
 
  </div>
  
- 
- <!--
- <h1 align="center">NutriLab - PyStack Week 4.0</h1>
--->
 
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
@@ -38,7 +31,6 @@
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0; 
   <a href="#white_check_mark-pré-requisitos">Pré-requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-começando">Começando</a> &#xa0; 
-<!--  <a href="#autor">Autor</a> -->
 </p>
 
 
@@ -51,18 +43,17 @@
 • Projeto feito em Django cujo o objetivo é uma aplicação para nutricionistas gerenciarem seus pacientes. 
 ```
 
-## :sparkles: Funcionalidades ##
+Funcionalidades
 
 
-:heavy_check_mark: Cadastro de Usuário e login do nutricionista;\
-:heavy_check_mark: Nutricionista pode criar pacientes e gerenciá-los;\
-:heavy_check_mark: Colocar dados no paciente como peso, altura, gordura, dados laboratoriais;\
-:heavy_check_mark: Ao colocar os dados, aparecerá uma tabela de linha que tende a subir ou descer conforme a próximo dado;\
-:heavy_check_mark: Gerenciar o plano alimentar do paciente colocando a refeição, horário, macronutrientes, descrição e imagem;\
-:heavy_check_mark: Por ser um arquivo de estudo, pode conter diversos comentários que o auxiliam no uso do django.
+Cadastro de Usuário e login do nutricionista;\
+Nutricionista pode criar pacientes e gerenciá-los;\
+Colocar dados no paciente como peso, altura, gordura, dados laboratoriais;\
+Ao colocar os dados, aparecerá uma tabela de linha que tende a subir ou descer conforme a próximo dado;\
+Gerenciar o plano alimentar do paciente colocando a refeição, horário, macronutrientes, descrição e imagem;\
+Por ser um arquivo de estudo, pode conter diversos comentários que o auxiliam no uso do django.
 
-
-## :rocket: Tecnologias ##
+Tecnologias
  
  
 As seguintes ferramentas 🛠 foram utilizadas na construção do projeto:
@@ -96,21 +87,16 @@ As seguintes ferramentas 🛠 foram utilizadas na construção do projeto:
 </table>
 
 
-## :white_check_mark: Pré-requisitos ##
-
+Pré-requisitos
 
 Antes de começar 🏁, você vai precisar ter instalado em sua máquina as sequintes ferramentas:
 [Git](https://git-scm.com/downloads), [Python](https://www.python.org/downloads/) e [DB Browser (SQLite)](https://sqlitebrowser.org/dl/).
 Além disto é bom ter um editor para trabalhar com o código, tal como: [VS Code](https://code.visualstudio.com/download)
 
 
-## :checkered_flag: Começando ##
+Começando
 
-
-```bash
 # Clone este repositorio
- -> git bash here
-  $ https://github.com/LucasFeliciano02/NutriLab-Django.git
 
 # Acesse a pasta do projeto que aparecerá em sua área de trabalho
  -> mouse esquerdo -> Abrir com Code
@@ -138,13 +124,10 @@ Além disto é bom ter um editor para trabalhar com o código, tal como: [VS Cod
      (env) python manage.py migrate
 
 # Executar projeto
-->  (env) python manage.py runserver
+  (env) python manage.py runserver
 
 OBS: Os arquivos do projeto podem ter muitos comentários pois são arquivos de estudo
-```
 
-
----
 
 
 <br>
